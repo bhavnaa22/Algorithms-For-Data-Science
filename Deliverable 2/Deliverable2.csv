@@ -1,0 +1,13 @@
+user_prompt,url to check,func_rating,custom_rating
+What is artificial intelligence?,https://www.ibm.com/cloud/learn/what-is-artificial-intelligence,2,4
+What are the symptoms of depression?,https://www.mentalhealth.gov/what-to-look-for/mood-disorders,2,3
+How does blockchain technology work?,https://www.ibm.com/topics/what-is-blockchain,2,2
+What is the significance of the Great Wall of China?,https://www.history.com/topics/world-history/great-wall-of-china,2,4
+What causes global warming?,https://www.nrdc.org/stories/what-global-warming,2,3
+How do vaccines help prevent disease?,https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination,2,2
+What is the history of the Internet?,https://www.internetsociety.org/internet/history-internet/,3,4
+What are the risks of smoking?,https://www.cancer.gov/about-cancer/causes-prevention/risk/tobacco,2,1
+What is the process of photosynthesis?,https://www.britannica.com/science/photosynthesis,3,4
+What are the economic impacts of COVID-19?,https://www.imf.org/en/Publications/WP/Issues/2021/05/10/Economic-Impacts-of-COVID-19,2,3
+How do electric cars work?,https://www.energy.gov/eere/electricvehicles/how-do-electric-cars-work,2,4
+What are the effects of climate change?,https://www.noaa.gov/education/resource-collections/climate/climate-change-impacts,2,3
